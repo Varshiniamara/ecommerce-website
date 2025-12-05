@@ -129,6 +129,57 @@ application/
 └── tailwind.config.js    # Tailwind CSS configuration
 ```
 
+## 🔄 Application Flow
+
+```mermaid
+graph TD
+    A[User Visits Website] --> B{Logged In?}
+    B -- No --> C[Login / Register Page]
+    B -- Yes --> D[Home Page]
+    C --> D
+    
+    D --> E{User Action}
+    E -- Browse Products --> D
+    E -- Filter Category --> D
+    E -- Click Product --> F[Product Details]
+    E -- Add to Cart --> G[Update Cart Context]
+    E -- Add to Wishlist --> H[Update Wishlist Context]
+    
+    G --> I[Cart Page]
+    H --> J[Wishlist Page]
+    
+    I --> K{Checkout?}
+    K -- Yes --> L[Address Form]
+    L --> M[Payment Gateway (Razorpay)]
+    M --> N[Order Success]
+    N --> O[Update Order History]
+    O --> D
+```
+
+## 📸 Output Screenshots
+
+*(Add your screenshots here. You can drag and drop images into this folder and reference them)*
+
+### 1. Home Page
+![Home Page](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
+*Displays the product grid with category filters and navigation.*
+
+### 2. Shopping Cart
+![Shopping Cart](https://via.placeholder.com/800x400?text=Shopping+Cart+Screenshot)
+*Shows selected items, quantity controls, and price details.*
+
+### 3. Wishlist
+![Wishlist](https://via.placeholder.com/800x400?text=Wishlist+Screenshot)
+*User's saved favorite items.*
+
+### 4. Checkout & Payment
+![Checkout](https://via.placeholder.com/800x400?text=Checkout+Screenshot)
+*Address form and Razorpay payment integration.*
+
+### 5. Mobile Responsiveness
+![Mobile View](https://via.placeholder.com/400x800?text=Mobile+View+Screenshot)
+*Responsive design on smaller screens.*
+
 ## 🔌 API Endpoints
 
 The JSON-Server provides the following REST API endpoints:
