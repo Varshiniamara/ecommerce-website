@@ -1,0 +1,883 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "title": "MacBook Pro 16-inch",
+      "price": 199900,
+      "originalPrice": 229900,
+      "discount": "13% OFF",
+      "description": "Apple M1 Pro chip, 16GB RAM, 512GB SSD. The ultimate pro laptop.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
+      "rating": {
+        "rate": 4.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 102,
+      "title": "iPhone 14 Pro Max",
+      "price": 139900,
+      "originalPrice": 149900,
+      "discount": "7% OFF",
+      "description": "Deep Purple, 256GB. Dynamic Island, 48MP camera, Always-On display.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 340
+      }
+    },
+    {
+      "id": 103,
+      "title": "Sony WH-1000XM5",
+      "price": 24990,
+      "originalPrice": 29990,
+      "discount": "17% OFF",
+      "description": "Industry-leading noise canceling headphones with 30-hour battery life.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 890
+      }
+    },
+    {
+      "id": 104,
+      "title": "iPad Air 5th Gen",
+      "price": 54900,
+      "originalPrice": 59900,
+      "discount": "8% OFF",
+      "description": "M1 chip, 10.9-inch Liquid Retina display, 64GB WiFi. Blue.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 210
+      }
+    },
+    {
+      "id": 105,
+      "title": "Canon EOS R6 Camera",
+      "price": 189990,
+      "originalPrice": 215990,
+      "discount": "12% OFF",
+      "description": "Full-frame mirrorless camera with 4K video and 20fps burst shooting.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500",
+      "rating": {
+        "rate": 4.9,
+        "count": 150
+      }
+    },
+    {
+      "id": 106,
+      "title": "Samsung Galaxy S23 Ultra",
+      "price": 124999,
+      "originalPrice": 134999,
+      "discount": "7% OFF",
+      "description": "200MP camera, S-Pen included, Snapdragon 8 Gen 2 processor.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 420
+      }
+    },
+    {
+      "id": 107,
+      "title": "Dell XPS 15 Laptop",
+      "price": 165990,
+      "originalPrice": 185990,
+      "discount": "11% OFF",
+      "description": "15.6 inch 4K OLED display, Intel i9, 32GB RAM, NVIDIA RTX 3050.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 180
+      }
+    },
+    {
+      "id": 108,
+      "title": "Nintendo Switch OLED",
+      "price": 31990,
+      "originalPrice": 34990,
+      "discount": "9% OFF",
+      "description": "7-inch OLED screen, wide adjustable stand, wired LAN port.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 1200
+      }
+    },
+    {
+      "id": 109,
+      "title": "Apple Watch Ultra",
+      "price": 82900,
+      "originalPrice": 89900,
+      "discount": "8% OFF",
+      "description": "Rugged titanium case, precision dual-frequency GPS, up to 36 hours battery.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500",
+      "rating": {
+        "rate": 4.9,
+        "count": 310
+      }
+    },
+    {
+      "id": 110,
+      "title": "GoPro HERO11 Black",
+      "price": 39990,
+      "originalPrice": 44990,
+      "discount": "11% OFF",
+      "description": "Waterproof action camera with 5.3K60 video and HyperSmooth 5.0 stabilization.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1596473535968-d8b98b46d1e8?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 450
+      }
+    },
+    {
+      "id": 111,
+      "title": "DJI Mini 3 Pro Drone",
+      "price": 79990,
+      "originalPrice": 89990,
+      "discount": "11% OFF",
+      "description": "Lightweight drone with 4K/60fps video, 34-min flight time, tri-directional sensing.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1579829366248-204fe8413f31?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 230
+      }
+    },
+    {
+      "id": 112,
+      "title": "Logitech MX Master 3S",
+      "price": 8995,
+      "originalPrice": 9995,
+      "discount": "10% OFF",
+      "description": "Performance wireless mouse with 8K DPI tracking and quiet clicks.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+      "rating": {
+        "rate": 4.9,
+        "count": 670
+      }
+    },
+    {
+      "id": 201,
+      "title": "Classic Denim Jacket",
+      "price": 2499,
+      "originalPrice": 3999,
+      "discount": "38% OFF",
+      "description": "Vintage wash denim jacket with copper buttons. 100% cotton.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 120
+      }
+    },
+    {
+      "id": 202,
+      "title": "White Leather Sneakers",
+      "price": 3999,
+      "originalPrice": 5999,
+      "discount": "33% OFF",
+      "description": "Minimalist white leather sneakers with rubber sole. Handmade in Italy.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 340
+      }
+    },
+    {
+      "id": 203,
+      "title": "Aviator Sunglasses",
+      "price": 1499,
+      "originalPrice": 2999,
+      "discount": "50% OFF",
+      "description": "Gold frame aviator sunglasses with polarized green lenses.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 210
+      }
+    },
+    {
+      "id": 204,
+      "title": "Leather Crossbody Bag",
+      "price": 2999,
+      "originalPrice": 4500,
+      "discount": "33% OFF",
+      "description": "Genuine leather crossbody bag with adjustable strap and gold hardware.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 150
+      }
+    },
+    {
+      "id": 205,
+      "title": "Wool Trench Coat",
+      "price": 5999,
+      "originalPrice": 8999,
+      "discount": "33% OFF",
+      "description": "Classic beige trench coat made from premium wool blend. Belted waist.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 89
+      }
+    },
+    {
+      "id": 206,
+      "title": "Floral Summer Dress",
+      "price": 1299,
+      "originalPrice": 2499,
+      "discount": "48% OFF",
+      "description": "Lightweight floral print dress with puff sleeves. Perfect for summer.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 230
+      }
+    },
+    {
+      "id": 207,
+      "title": "Men's Oxford Shoes",
+      "price": 4499,
+      "originalPrice": 6999,
+      "discount": "36% OFF",
+      "description": "Brown leather Oxford dress shoes. Goodyear welted construction.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 110
+      }
+    },
+    {
+      "id": 208,
+      "title": "Cashmere Scarf",
+      "price": 1999,
+      "originalPrice": 3500,
+      "discount": "43% OFF",
+      "description": "100% cashmere scarf in charcoal grey. Ultra soft and warm.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500",
+      "rating": {
+        "rate": 4.9,
+        "count": 320
+      }
+    },
+    {
+      "id": 209,
+      "title": "Gold Plated Necklace",
+      "price": 999,
+      "originalPrice": 1999,
+      "discount": "50% OFF",
+      "description": "18k gold plated chain necklace with pearl pendant.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 190
+      }
+    },
+    {
+      "id": 210,
+      "title": "Slim Fit Chinos",
+      "price": 1499,
+      "originalPrice": 2299,
+      "discount": "35% OFF",
+      "description": "Navy blue slim fit chinos. Stretch cotton fabric for comfort.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500",
+      "rating": {
+        "rate": 4.4,
+        "count": 410
+      }
+    },
+    {
+      "id": 211,
+      "title": "Leather Belt",
+      "price": 799,
+      "originalPrice": 1299,
+      "discount": "38% OFF",
+      "description": "Full grain leather belt with silver buckle. Available in black and brown.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1624223359990-ea569d5ddb92?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 280
+      }
+    },
+    {
+      "id": 212,
+      "title": "Canvas Backpack",
+      "price": 1899,
+      "originalPrice": 2999,
+      "discount": "37% OFF",
+      "description": "Durable canvas backpack with leather straps. Fits 15-inch laptop.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": 301,
+      "title": "Mid-Century Modern Sofa",
+      "price": 35999,
+      "originalPrice": 45000,
+      "discount": "20% OFF",
+      "description": "Grey fabric sofa with tapered wooden legs. 3-seater.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 85
+      }
+    },
+    {
+      "id": 302,
+      "title": "Ceramic Table Lamp",
+      "price": 1999,
+      "originalPrice": 3500,
+      "discount": "43% OFF",
+      "description": "Handcrafted ceramic table lamp with linen shade. Textured finish.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 120
+      }
+    },
+    {
+      "id": 303,
+      "title": "Velvet Throw Pillow",
+      "price": 499,
+      "originalPrice": 999,
+      "discount": "50% OFF",
+      "description": "Emerald green velvet throw pillow cover with insert. 18x18 inches.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1579656381226-5fc70ac16922?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 230
+      }
+    },
+    {
+      "id": 304,
+      "title": "Wooden Coffee Table",
+      "price": 8999,
+      "originalPrice": 12999,
+      "discount": "31% OFF",
+      "description": "Solid oak coffee table with lower shelf for storage. Natural finish.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 95
+      }
+    },
+    {
+      "id": 305,
+      "title": "Potted Monstera Plant",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discount": "35% OFF",
+      "description": "Live Monstera Deliciosa plant in white ceramic pot. Easy to care for.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=500",
+      "rating": {
+        "rate": 4.9,
+        "count": 310
+      }
+    },
+    {
+      "id": 306,
+      "title": "Kitchen Knife Set",
+      "price": 3499,
+      "originalPrice": 5999,
+      "discount": "42% OFF",
+      "description": "6-piece stainless steel knife set with wooden block. Chef quality.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 180
+      }
+    },
+    {
+      "id": 307,
+      "title": "Cast Iron Skillet",
+      "price": 1899,
+      "originalPrice": 2999,
+      "discount": "37% OFF",
+      "description": "12-inch pre-seasoned cast iron skillet. Perfect for searing and baking.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?w=500",
+      "rating": {
+        "rate": 4.9,
+        "count": 450
+      }
+    },
+    {
+      "id": 308,
+      "title": "Linen Bedding Set",
+      "price": 4999,
+      "originalPrice": 7500,
+      "discount": "33% OFF",
+      "description": "100% French flax linen duvet cover set in white. Queen size.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 140
+      }
+    },
+    {
+      "id": 309,
+      "title": "Wall Mirror Round",
+      "price": 2999,
+      "originalPrice": 4500,
+      "discount": "33% OFF",
+      "description": "30-inch round wall mirror with black metal frame. Modern design.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 110
+      }
+    },
+    {
+      "id": 310,
+      "title": "Scented Soy Candle",
+      "price": 599,
+      "originalPrice": 999,
+      "discount": "40% OFF",
+      "description": "Lavender and vanilla scented soy wax candle. 50 hour burn time.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 360
+      }
+    },
+    {
+      "id": 311,
+      "title": "Ceramic Dinner Set",
+      "price": 3999,
+      "originalPrice": 5999,
+      "discount": "33% OFF",
+      "description": "16-piece stoneware dinner set in matte blue. Service for 4.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 190
+      }
+    },
+    {
+      "id": 312,
+      "title": "Woven Storage Basket",
+      "price": 899,
+      "originalPrice": 1499,
+      "discount": "40% OFF",
+      "description": "Large seagrass woven basket for blankets or laundry.",
+      "category": "Home & Living",
+      "image": "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 220
+      }
+    },
+    {
+      "id": 401,
+      "title": "Vitamin C Serum",
+      "price": 699,
+      "originalPrice": 999,
+      "discount": "30% OFF",
+      "description": "Brightening Vitamin C serum with Hyaluronic Acid. 30ml.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 420
+      }
+    },
+    {
+      "id": 402,
+      "title": "Matte Lipstick Red",
+      "price": 499,
+      "originalPrice": 799,
+      "discount": "38% OFF",
+      "description": "Long-lasting matte liquid lipstick in classic red. Vegan formula.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 310
+      }
+    },
+    {
+      "id": 403,
+      "title": "Facial Moisturizer",
+      "price": 599,
+      "originalPrice": 899,
+      "discount": "33% OFF",
+      "description": "Daily hydrating moisturizer for all skin types. Fragrance-free.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 250
+      }
+    },
+    {
+      "id": 404,
+      "title": "Eyeshadow Palette",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discount": "35% OFF",
+      "description": "12-shade neutral eyeshadow palette. Highly pigmented and blendable.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 180
+      }
+    },
+    {
+      "id": 405,
+      "title": "Makeup Brush Set",
+      "price": 899,
+      "originalPrice": 1599,
+      "discount": "44% OFF",
+      "description": "10-piece professional makeup brush set with travel case.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1612817288484-92913477a8b9?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 210
+      }
+    },
+    {
+      "id": 406,
+      "title": "Hair Oil Treatment",
+      "price": 599,
+      "originalPrice": 999,
+      "discount": "40% OFF",
+      "description": "Argan oil hair treatment for shine and frizz control. 100ml.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1629198688000-71f23e745b6e?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 140
+      }
+    },
+    {
+      "id": 407,
+      "title": "Clay Face Mask",
+      "price": 499,
+      "originalPrice": 899,
+      "discount": "44% OFF",
+      "description": "Detoxifying pink clay mask to minimize pores and brighten skin.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 290
+      }
+    },
+    {
+      "id": 408,
+      "title": "Perfume Eau de Parfum",
+      "price": 2499,
+      "originalPrice": 3999,
+      "discount": "38% OFF",
+      "description": "Floral scent with notes of jasmine and rose. 50ml glass bottle.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=500",
+      "rating": {
+        "rate": 4.9,
+        "count": 160
+      }
+    },
+    {
+      "id": 409,
+      "title": "Sunscreen SPF 50",
+      "price": 499,
+      "originalPrice": 799,
+      "discount": "38% OFF",
+      "description": "Lightweight invisible sunscreen SPF 50. No white cast.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 380
+      }
+    },
+    {
+      "id": 410,
+      "title": "Jade Roller",
+      "price": 399,
+      "originalPrice": 899,
+      "discount": "56% OFF",
+      "description": "Natural jade stone face roller for depuffing and massage.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1615396899839-c99c121888b0?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 220
+      }
+    },
+    {
+      "id": 411,
+      "title": "Nail Polish Set",
+      "price": 599,
+      "originalPrice": 999,
+      "discount": "40% OFF",
+      "description": "Set of 5 nude nail polish shades. Chip-resistant formula.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=500",
+      "rating": {
+        "rate": 4.4,
+        "count": 130
+      }
+    },
+    {
+      "id": 412,
+      "title": "Bath Bomb Gift Set",
+      "price": 799,
+      "originalPrice": 1299,
+      "discount": "38% OFF",
+      "description": "Box of 6 organic bath bombs with essential oils.",
+      "category": "Beauty",
+      "image": "https://images.unsplash.com/photo-1612198273689-71d21904e236?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 260
+      }
+    },
+    {
+      "id": 501,
+      "title": "Yoga Mat Non-Slip",
+      "price": 899,
+      "originalPrice": 1599,
+      "discount": "44% OFF",
+      "description": "Eco-friendly non-slip yoga mat with alignment lines. 6mm thick.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 310
+      }
+    },
+    {
+      "id": 502,
+      "title": "Dumbbell Set 10kg",
+      "price": 1999,
+      "originalPrice": 3500,
+      "discount": "43% OFF",
+      "description": "Pair of hex rubber dumbbells. Ergonomic chrome handle.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 190
+      }
+    },
+    {
+      "id": 503,
+      "title": "Running Shoes",
+      "price": 2499,
+      "originalPrice": 4500,
+      "discount": "44% OFF",
+      "description": "Lightweight running shoes with cushioned sole. Breathable mesh.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 450
+      }
+    },
+    {
+      "id": 504,
+      "title": "Tennis Racket Pro",
+      "price": 3999,
+      "originalPrice": 6500,
+      "discount": "38% OFF",
+      "description": "Graphite tennis racket for intermediate players. Pre-strung.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 120
+      }
+    },
+    {
+      "id": 505,
+      "title": "Camping Tent 4-Person",
+      "price": 4999,
+      "originalPrice": 7999,
+      "discount": "38% OFF",
+      "description": "Waterproof 4-person camping tent. Easy setup in 5 minutes.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 210
+      }
+    },
+    {
+      "id": 506,
+      "title": "Cycling Helmet",
+      "price": 1299,
+      "originalPrice": 2499,
+      "discount": "48% OFF",
+      "description": "Aerodynamic cycling helmet with ventilation. Safety certified.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1561654791-00316c79efa8?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 160
+      }
+    },
+    {
+      "id": 507,
+      "title": "Resistance Bands Set",
+      "price": 499,
+      "originalPrice": 999,
+      "discount": "50% OFF",
+      "description": "Set of 5 latex resistance bands with different strength levels.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 380
+      }
+    },
+    {
+      "id": 508,
+      "title": "Basketball Indoor/Outdoor",
+      "price": 899,
+      "originalPrice": 1599,
+      "discount": "44% OFF",
+      "description": "Official size 7 basketball. Composite leather for grip.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1546519638-68e109498ad0?w=500",
+      "rating": {
+        "rate": 4.8,
+        "count": 290
+      }
+    },
+    {
+      "id": 509,
+      "title": "Hiking Backpack 40L",
+      "price": 2499,
+      "originalPrice": 3999,
+      "discount": "38% OFF",
+      "description": "40L hiking backpack with rain cover and hydration sleeve.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "id": 510,
+      "title": "Swim Goggles",
+      "price": 399,
+      "originalPrice": 799,
+      "discount": "50% OFF",
+      "description": "Anti-fog swim goggles with UV protection. Adjustable strap.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=500",
+      "rating": {
+        "rate": 4.5,
+        "count": 220
+      }
+    },
+    {
+      "id": 511,
+      "title": "Foam Roller",
+      "price": 599,
+      "originalPrice": 999,
+      "discount": "40% OFF",
+      "description": "High density foam roller for muscle massage and recovery.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?w=500",
+      "rating": {
+        "rate": 4.6,
+        "count": 180
+      }
+    },
+    {
+      "id": 512,
+      "title": "Protein Shaker Bottle",
+      "price": 299,
+      "originalPrice": 599,
+      "discount": "50% OFF",
+      "description": "Leak-proof shaker bottle with mixing ball. 700ml capacity.",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=500",
+      "rating": {
+        "rate": 4.4,
+        "count": 410
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "description": "Gadgets, devices, and tech"
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "description": "Clothing, shoes, and accessories"
+    },
+    {
+      "id": 3,
+      "name": "Home & Living",
+      "description": "Furniture, decor, and kitchen"
+    },
+    {
+      "id": 4,
+      "name": "Beauty",
+      "description": "Skincare, makeup, and wellness"
+    },
+    {
+      "id": 5,
+      "name": "Sports",
+      "description": "Fitness gear and outdoor equipment"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "demo",
+      "email": "demo@example.com",
+      "password": "password123",
+      "name": "Demo User"
+    }
+  ],
+  "carts": [],
+  "wishlists": [],
+  "orders": []
+}
