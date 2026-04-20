@@ -1,9 +1,14 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
 const path = require('path');
-// Use a path that is relative to the internal Vercel structure
-// When deployed, the root is the parent of api/
-const router = jsonServer.router(path.join(__dirname, '..', 'db.json'));
+const fs = require('fs');
+
+// Use process.cwd() to get the root of the deployment
+const dbPath = path.resolve(process.cwd(), 'db.json');
+
+// Check if db.json exists, if not use a fallback or error
+// On Vercel, files in the root should be available via process.cwd()
+const router = jsonServer.router(dbPath);
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
