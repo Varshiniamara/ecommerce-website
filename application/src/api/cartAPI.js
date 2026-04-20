@@ -1,5 +1,6 @@
 import axios from "axios";
-const API_URL = 'http://localhost:3003';
+import { API_URL } from "./config";
+
 
 // Cart Operations
 export const getCart = async (userId) => {

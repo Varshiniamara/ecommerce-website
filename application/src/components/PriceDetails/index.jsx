@@ -2,6 +2,8 @@ import { useCart } from "../../context/cart-context";
 import { getTotalCartAmount } from "../../utils/getTotalCartAmount";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
+import { API_URL } from "../../api/config";
+
 
 export const PriceDetails = ({ address }) => {
   const { cart, cartDispatch } = useCart();
@@ -29,7 +31,7 @@ export const PriceDetails = ({ address }) => {
         date: new Date().toISOString(),
       };
 
-      await axios.post("http://localhost:3003/orders", orderData);
+      await axios.post(`${API_URL}/orders`, orderData);
 
       cartDispatch({ type: "CLEAR_CART" });
       alert(`Order Placed Successfully! Payment ID: ${response.razorpay_payment_id}`);
