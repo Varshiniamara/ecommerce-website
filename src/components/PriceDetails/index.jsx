@@ -2,7 +2,7 @@ import { useCart } from "../../context/cart-context";
 import { getTotalCartAmount } from "../../utils/getTotalCartAmount";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
-import { API_URL } from "../../api/config";
+import { API_URL } from "../../../api/config";
 
 
 export const PriceDetails = ({ address }) => {
